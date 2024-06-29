@@ -42,4 +42,4 @@
 - Visual Studio
 - WinForm
 
-### [ElizavetaRychko] https://github.com/ElizavetaRychko)
+### Автор - [ElizavetaRychko](https://github.com/ElizavetaRychko)
