@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\rycko\OneDrive\Рабочий стол\Project14\Project14\MyForm.h(367): warning C4715: Project14::MyForm::OpenFile: значение возвращается не при всех путях выполнения
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project14.vcxproj -> C:\Users\rycko\OneDrive\Рабочий стол\Project14\x64\Debug\Project14.exe

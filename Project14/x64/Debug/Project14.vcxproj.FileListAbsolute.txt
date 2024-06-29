@@ -1,0 +1,9 @@
+C:\Users\krok9\source\repos\Project14\Project14\x64\Debug\Project14.vcxproj.AssemblyReference.cache
+C:\Users\krok9\source\repos\Project14\Project14\x64\Debug\Project14.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\krok9\source\repos\Project14\Project14\x64\Debug\Project14.MyForm.resources
+C:\Users\krok9\source\repos\Project14\Project14\x64\Debug\Project14.vcxproj.GenerateResource.cache
+C:\Users\krok9\source\repos\Project14\Project14\x64\Debug\Project14.vcxproj.CopyComplete
+C:\Users\rycko\OneDrive\Рабочий стол\Project14\Project14\x64\Debug\Project14.vcxproj.AssemblyReference.cache
+C:\Users\rycko\OneDrive\Рабочий стол\Project14\Project14\x64\Debug\Project14.MyForm.resources
+C:\Users\rycko\OneDrive\Рабочий стол\Project14\Project14\x64\Debug\Project14.vcxproj.GenerateResource.cache
+C:\Users\rycko\OneDrive\Рабочий стол\Project14\Project14\x64\Debug\Project14.vcxproj.CopyComplete
